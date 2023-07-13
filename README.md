@@ -1,2 +1,7 @@
-# MagicBus
-Magic Bus Employee Form
+## Magicbus Erpnext
+
+Magic Bus ERPNext
+
+#### License
+
+MIT
