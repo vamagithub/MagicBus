@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include magicbus_erpnext *.css
+recursive-include magicbus_erpnext *.csv
+recursive-include magicbus_erpnext *.html
+recursive-include magicbus_erpnext *.ico
+recursive-include magicbus_erpnext *.js
+recursive-include magicbus_erpnext *.json
+recursive-include magicbus_erpnext *.md
+recursive-include magicbus_erpnext *.png
+recursive-include magicbus_erpnext *.py
+recursive-include magicbus_erpnext *.svg
+recursive-include magicbus_erpnext *.txt
+recursive-exclude magicbus_erpnext *.pyc
